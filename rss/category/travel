@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:admin="http://webns.net/mvcb/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Varient &#45; News Magazine &#45; : Travel</title>
+<link>https://varient.codingest.net/rss/category/travel</link>
+<description>Varient &#45; News Magazine &#45; : Travel</description>
+<dc:language>en</dc:language>
+<dc:rights>Copyright 2024 Varient &#45; All Rights Reserved.</dc:rights>
+
+<item>
+<title>The beach, a captivating and idyllic destination</title>
+<link>https://varient.codingest.net/the-beach-a-captivating-and-idyllic-destination</link>
+<guid>https://varient.codingest.net/the-beach-a-captivating-and-idyllic-destination</guid>
+<description><![CDATA[ Whether you seek relaxation, adventure, or a combination of both, the beach captivates with its alluring charm ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66258b5064c1b.webp" length="95144" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 23:57:47 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>beach, captivating</media:keywords>
+</item>
+
+<item>
+<title>With the limitless variety of genres and styles</title>
+<link>https://varient.codingest.net/with-the-limitless-variety-of-genres-and-styles</link>
+<guid>https://varient.codingest.net/with-the-limitless-variety-of-genres-and-styles</guid>
+<description><![CDATA[ In a world that often feels chaotic and uncertain, music provides a sanctuary of order and beauty ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66253d0529d31.webp" length="31624" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 18:22:53 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>limitless, style, music</media:keywords>
+</item>
+
+<item>
+<title>The air carries the invigorating scent of moss</title>
+<link>https://varient.codingest.net/the-air-carries-the-invigorating-scent-of-moss</link>
+<guid>https://varient.codingest.net/the-air-carries-the-invigorating-scent-of-moss</guid>
+<description><![CDATA[ The whispering of leaves creates a melodic rhythm, while the delightful chorus of birdsong adds a harmonious touch ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661fb1ce0a4a1.webp" length="72928" type="image/jpeg"/>
+<pubDate>Thu, 18 Apr 2024 14:02:34 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>invigorating, air, forest</media:keywords>
+</item>
+
+<item>
+<title>Towers of modern civilization</title>
+<link>https://varient.codingest.net/towers-of-modern-civilization</link>
+<guid>https://varient.codingest.net/towers-of-modern-civilization</guid>
+<description><![CDATA[ The heights of city buildings offer breathtaking panoramas, providing panoramic views of the cityscape and beyond ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66210adcd6afc.webp" length="68090" type="image/jpeg"/>
+<pubDate>Thu, 18 Apr 2024 13:58:39 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>modern, tower, civilization</media:keywords>
+</item>
+
+<item>
+<title>Wildlife flourishes in the ecosystem of the river</title>
+<link>https://varient.codingest.net/wildlife-flourishes-in-the-ecosystem-of-the-river</link>
+<guid>https://varient.codingest.net/wildlife-flourishes-in-the-ecosystem-of-the-river</guid>
+<description><![CDATA[ Birds soar gracefully overhead, their wings casting fleeting shadows on the water&#039;s surface ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661fb1394860e.webp" length="100250" type="image/jpeg"/>
+<pubDate>Thu, 18 Apr 2024 13:55:23 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>river, wildlife</media:keywords>
+</item>
+
+<item>
+<title>Our furry friends and faithful companions</title>
+<link>https://varient.codingest.net/our-furry-friends-and-faithful-companions</link>
+<guid>https://varient.codingest.net/our-furry-friends-and-faithful-companions</guid>
+<description><![CDATA[ Dogs, our four-legged companions, hold a special place in our hearts and homes ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_6620ff08d3e66.webp" length="53418" type="image/jpeg"/>
+<pubDate>Thu, 18 Apr 2024 13:08:36 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>dogs, companions, friends</media:keywords>
+</item>
+
+</channel>
+</rss>

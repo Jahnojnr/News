@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:admin="http://webns.net/mvcb/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Varient &#45; News Magazine &#45; : Quizzes</title>
+<link>https://varient.codingest.net/rss/category/quizzes</link>
+<description>Varient &#45; News Magazine &#45; : Quizzes</description>
+<dc:language>en</dc:language>
+<dc:rights>Copyright 2024 Varient &#45; All Rights Reserved.</dc:rights>
+
+<item>
+<title>Which country do you want to visit the most?</title>
+<link>https://varient.codingest.net/which-country-do-you-want-to-visit-the-most</link>
+<guid>https://varient.codingest.net/which-country-do-you-want-to-visit-the-most</guid>
+<description><![CDATA[ Traveling to a new country is an exciting journey of discovery, offering unforgettable experiences and a chance to embrace different cultures. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_6625444f50e13.webp" length="38742" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 18:53:54 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>visit, country, poll</media:keywords>
+</item>
+
+<item>
+<title>What is your favorite movie?</title>
+<link>https://varient.codingest.net/what-is-your-favorite-movie</link>
+<guid>https://varient.codingest.net/what-is-your-favorite-movie</guid>
+<description><![CDATA[ Voting for your favorite movie allows you to have a voice in recognizing and celebrating the films that resonate with you ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66254270d2106.webp" length="34098" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 18:50:38 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>movie, poll</media:keywords>
+</item>
+
+<item>
+<title>Are you logical or emotional?</title>
+<link>https://varient.codingest.net/are-you-logical-or-emotional</link>
+<guid>https://varient.codingest.net/are-you-logical-or-emotional</guid>
+<description><![CDATA[ Engage in a logical quiz and exercise your critical thinking skills ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66253fb921191.webp" length="39902" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 18:37:32 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>logical, emotional, quiz</media:keywords>
+</item>
+
+<item>
+<title>How well do you know the famous places in the world?</title>
+<link>https://varient.codingest.net/how-well-do-you-know-the-famous-places-in-the-world</link>
+<guid>https://varient.codingest.net/how-well-do-you-know-the-famous-places-in-the-world</guid>
+<description><![CDATA[ Test your knowledge as you explore iconic landmarks from around the globe ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66253dad0bebd.webp" length="110550" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 18:30:41 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>places, world, quiz</media:keywords>
+</item>
+
+<item>
+<title>How much do you know the Solar System?</title>
+<link>https://varient.codingest.net/how-much-do-you-know-the-solar-system</link>
+<guid>https://varient.codingest.net/how-much-do-you-know-the-solar-system</guid>
+<description><![CDATA[ The solar system is a mesmerizing cosmic arrangement, consisting of the sun, planets, moons, asteroids, and comets, all bound together by the forces of gravity. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_6622767c31e32.webp" length="108538" type="image/jpeg"/>
+<pubDate>Fri, 19 Apr 2024 15:53:52 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>solar system, quiz</media:keywords>
+</item>
+
+<item>
+<title>What kind of personality do you have?</title>
+<link>https://varient.codingest.net/what-kind-of-personality-do-you-have</link>
+<guid>https://varient.codingest.net/what-kind-of-personality-do-you-have</guid>
+<description><![CDATA[ Personality is a unique blend of traits, behaviors, and characteristics that define an individual&#039;s distinct essence ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_662270aa96711.webp" length="25640" type="image/jpeg"/>
+<pubDate>Fri, 19 Apr 2024 15:32:45 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>personality, quiz</media:keywords>
+</item>
+
+<item>
+<title>What do you know about animals?</title>
+<link>https://varient.codingest.net/what-do-you-know-about-animals</link>
+<guid>https://varient.codingest.net/what-do-you-know-about-animals</guid>
+<description><![CDATA[ The animal quiz challenged my knowledge and made me realize how fascinating and diverse the animal kingdom truly is. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_662117f427bf1.webp" length="47892" type="image/jpeg"/>
+<pubDate>Thu, 18 Apr 2024 14:57:59 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>animal, quiz</media:keywords>
+</item>
+
+<item>
+<title>Test your general knowledge</title>
+<link>https://varient.codingest.net/test-your-general-knowledge</link>
+<guid>https://varient.codingest.net/test-your-general-knowledge</guid>
+<description><![CDATA[ General knowledge encompasses a broad range of information about various subjects, events ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_6621044f7fa51.webp" length="86256" type="image/jpeg"/>
+<pubDate>Thu, 18 Apr 2024 13:36:49 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>general, knowledge, quiz</media:keywords>
+</item>
+
+</channel>
+</rss>

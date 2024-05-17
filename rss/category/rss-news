@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:admin="http://webns.net/mvcb/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Varient &#45; News Magazine &#45; : RSS News</title>
+<link>https://varient.codingest.net/rss/category/rss-news</link>
+<description>Varient &#45; News Magazine &#45; : RSS News</description>
+<dc:language>en</dc:language>
+<dc:rights>Copyright 2024 Varient &#45; All Rights Reserved.</dc:rights>
+
+<item>
+<title>This AI Startup Wants You to Talk to Houses, Cars, and Factories</title>
+<link>https://varient.codingest.net/this-ai-startup-wants-you-to-talk-to-houses-cars-and-factories</link>
+<guid>https://varient.codingest.net/this-ai-startup-wants-you-to-talk-to-houses-cars-and-factories</guid>
+<description><![CDATA[ Archetype builds AI models that act as a translation layer between humans and complex sensors, using plain language to help people understand what’s happening in a building, car, or human body ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e87b5792ab.jpg" length="85777" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:14:13 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>This, Startup, Wants, You, Talk, Houses, Cars, and, Factories</media:keywords>
+</item>
+
+<item>
+<title>The Honeybees Versus the Murder Hornets</title>
+<link>https://varient.codingest.net/the-honeybees-versus-the-murder-hornets</link>
+<guid>https://varient.codingest.net/the-honeybees-versus-the-murder-hornets</guid>
+<description><![CDATA[ Under threat from murder hornets, climate change, and habitat loss, UK honeybees are getting help from AI-enabled apiculturists tracking everything from foraging patterns to foreign invaders. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e87b3b5feb.jpg" length="149625" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:14:11 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>The, Honeybees, Versus, the, Murder, Hornets</media:keywords>
+</item>
+
+<item>
+<title>NASA Artemis Mission Progresses with SpaceX Starship Test Flight</title>
+<link>https://varient.codingest.net/nasa-artemis-mission-progresses-with-spacex-starship-test-flight</link>
+<guid>https://varient.codingest.net/nasa-artemis-mission-progresses-with-spacex-starship-test-flight</guid>
+<description><![CDATA[ As part of NASA’s Artemis campaign to return humans to the Moon for the benefit of all, the agency is working with SpaceX to develop the company’s Starship human landing system (HLS), which will land astronauts near the Moon’s South Pole during the Artemis III and Artemis IV missions. On March 14, SpaceX launched the […] ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e875d9257b.jpg" length="65524" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:44 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>NASA, Artemis, Mission, Progresses, with, SpaceX, Starship, Test, Flight</media:keywords>
+</item>
+
+<item>
+<title>Tech Today: NASA Helps Find Where the Wildfires Are</title>
+<link>https://varient.codingest.net/tech-today-nasa-helps-find-where-the-wildfires-are</link>
+<guid>https://varient.codingest.net/tech-today-nasa-helps-find-where-the-wildfires-are</guid>
+<description><![CDATA[ Globally, nearly all wildfires start with a human ignition source – not lightning strikes or wildlife encountering power equipment. Knowing humans can be a primary cause is an example of the sort of knowledge that helps predict and prevent wildfires, a challenge that NASA and the firefighting industry are undertaking together.  As wildfires become more […] ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e875b711ab.jpg" length="106933" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:43 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Tech, Today:, NASA, Helps, Find, Where, the, Wildfires, Are</media:keywords>
+</item>
+
+<item>
+<title>NASA, Industry Improve Lidars for Exploration, Science</title>
+<link>https://varient.codingest.net/nasa-industry-improve-lidars-for-exploration-science</link>
+<guid>https://varient.codingest.net/nasa-industry-improve-lidars-for-exploration-science</guid>
+<description><![CDATA[ NASA engineers will test a suite of new laser technologies from an aircraft this summer for Earth science remote sensing. Called lidar, the instruments could also be used to improve models of the Moon’s shape and aid the search for Artemis landing sites. Similar to sonar, but using light instead of sound, lidars calculate distances […] ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e8759a45fa.jpg" length="92214" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:40 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>NASA, Industry, Improve, Lidars, for, Exploration, Science</media:keywords>
+</item>
+
+<item>
+<title>Tech Today: Cutting the Knee Surgery Cord</title>
+<link>https://varient.codingest.net/tech-today-cutting-the-knee-surgery-cord</link>
+<guid>https://varient.codingest.net/tech-today-cutting-the-knee-surgery-cord</guid>
+<description><![CDATA[ After Eugene Malinskiy saw a physician assistant trip over arthroscopic camera cords during a medical procedure, he and his brother, Ilya, set out to develop a wireless arthroscopic camera. Early in the development process, the Malinskiys got a boost from engineers at NASA’s Glenn Research Center in Cleveland, who advised on technical specifications through the […] ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e875805b55.jpg" length="127687" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:39 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Tech, Today:, Cutting, the, Knee, Surgery, Cord</media:keywords>
+</item>
+
+<item>
+<title>Missed the total solar eclipse? Watch video of key moments.</title>
+<link>https://varient.codingest.net/missed-the-total-solar-eclipse-watch-video-of-key-moments</link>
+<guid>https://varient.codingest.net/missed-the-total-solar-eclipse-watch-video-of-key-moments</guid>
+<description><![CDATA[ A total solar eclipse darkened skies across the U.S. Tens of millions witnessed it in the &quot;path of totality.&quot; ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e87547ec55.jpg" length="21686" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:34 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Missed, the, total, solar, eclipse, Watch, video, key, moments.</media:keywords>
+</item>
+
+<item>
+<title>Bill Nye discusses total solar eclipse</title>
+<link>https://varient.codingest.net/bill-nye-discusses-total-solar-eclipse</link>
+<guid>https://varient.codingest.net/bill-nye-discusses-total-solar-eclipse</guid>
+<description><![CDATA[ Bill Nye &quot;The Science Guy&quot; got to see the total solar eclipse from Fredericksburg, Texas. He spoke with &quot;CBS Evening News&quot; anchor and managing editor Norah O&#039;Donnell about what it was like. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e87524dba2.jpg" length="89188" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:33 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Bill, Nye, discusses, total, solar, eclipse</media:keywords>
+</item>
+
+<item>
+<title>Total solar eclipse cuts path across U.S.</title>
+<link>https://varient.codingest.net/total-solar-eclipse-cuts-path-across-us</link>
+<guid>https://varient.codingest.net/total-solar-eclipse-cuts-path-across-us</guid>
+<description><![CDATA[ Millions in the U.S., Mexico and Canada were able to see a total solar eclipse on Monday. The eclipse&#039;s path of totality cut through 15 states, but even those outside the path were still able to see a partial eclipse. &quot;CBS Evening News&quot; anchor and managing editor Norah O&#039;Donnell reports. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e87512ab8c.jpg" length="29365" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:32 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Total, solar, eclipse, cuts, path, across, U.S.</media:keywords>
+</item>
+
+<item>
+<title>Solar eclipse maps show 2024 totality path, peak times across the U.S.</title>
+<link>https://varient.codingest.net/solar-eclipse-maps-show-2024-totality-path-peak-times-across-the-us</link>
+<guid>https://varient.codingest.net/solar-eclipse-maps-show-2024-totality-path-peak-times-across-the-us</guid>
+<description><![CDATA[ Astronomy fans figuring out where and what time to see the April 8, 2024, total solar eclipse could check out maps showing the path of totality. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e874fdd730.jpg" length="134742" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:30 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Solar, eclipse, maps, show, 2024, totality, path, peak, times, across, the, U.S.</media:keywords>
+</item>
+
+<item>
+<title>Zoo animals got quiet, exhibited nighttime behavior during total solar eclipse</title>
+<link>https://varient.codingest.net/zoo-animals-got-quiet-exhibited-nighttime-behavior-during-total-solar-eclipse</link>
+<guid>https://varient.codingest.net/zoo-animals-got-quiet-exhibited-nighttime-behavior-during-total-solar-eclipse</guid>
+<description><![CDATA[ During the eclipse, zoo animals across the U.S. displayed some unique behaviors, such as acting as they usually do at night. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e874ea0595.jpg" length="59974" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:29 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Zoo, animals, got, quiet, exhibited, nighttime, behavior, during, total, solar, eclipse</media:keywords>
+</item>
+
+<item>
+<title>Can You Really Run on Top of a Train, Like in the Movies?</title>
+<link>https://varient.codingest.net/can-you-really-run-on-top-of-a-train-like-in-the-movies</link>
+<guid>https://varient.codingest.net/can-you-really-run-on-top-of-a-train-like-in-the-movies</guid>
+<description><![CDATA[ To pull off this classic Hollywood stunt, you gotta know your physics! ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e87467eff2.jpg" length="118035" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:22 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Can, You, Really, Run, Top, Train, Like, the, Movies</media:keywords>
+</item>
+
+<item>
+<title>Bird Flu Is Spreading in Alarming New Ways</title>
+<link>https://varient.codingest.net/bird-flu-is-spreading-in-alarming-new-ways</link>
+<guid>https://varient.codingest.net/bird-flu-is-spreading-in-alarming-new-ways</guid>
+<description><![CDATA[ H5N1 has infected cattle across the US and jumped from a mammal to a human for the first time. Experts fear it may someday evolve to spread among humans. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e87471a938.jpg" length="221127" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:22 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Bird, Flu, Spreading, Alarming, New, Ways</media:keywords>
+</item>
+
+<item>
+<title>Toronto Wants to Manage Storms and Floods—With a Rain Tax</title>
+<link>https://varient.codingest.net/toronto-wants-to-manage-storms-and-floodswith-a-rain-tax</link>
+<guid>https://varient.codingest.net/toronto-wants-to-manage-storms-and-floodswith-a-rain-tax</guid>
+<description><![CDATA[ Outcry reached such a crescendo last week that the city canceled public hearings on the tax, which is intended to help offset the hundreds of millions spent managing stormwater and basement flooding. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e8745e0a56.jpg" length="155454" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:21 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Toronto, Wants, Manage, Storms, and, Floods—With, Rain, Tax</media:keywords>
+</item>
+
+<item>
+<title>The Quest to Map the Inside of the Proton</title>
+<link>https://varient.codingest.net/the-quest-to-map-the-inside-of-the-proton</link>
+<guid>https://varient.codingest.net/the-quest-to-map-the-inside-of-the-proton</guid>
+<description><![CDATA[ Long-anticipated experiments that use light to mimic gravity are revealing the distribution of energies, forces, and pressures inside a subatomic particle for the first time. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e8744bc707.jpg" length="162334" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:20 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>The, Quest, Map, the, Inside, the, Proton</media:keywords>
+</item>
+
+<item>
+<title>Space Force Is Planning a Military Exercise in Orbit</title>
+<link>https://varient.codingest.net/space-force-is-planning-a-military-exercise-in-orbit</link>
+<guid>https://varient.codingest.net/space-force-is-planning-a-military-exercise-in-orbit</guid>
+<description><![CDATA[ Two satellites will engage in a “realistic threat response scenario” when Victus Haze gets underway. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e874554931.jpg" length="20659" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:12:20 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Space, Force, Planning, Military, Exercise, Orbit</media:keywords>
+</item>
+
+<item>
+<title>Study maps &amp;quot;forever chemical&amp;quot; water contamination hotspots worldwide</title>
+<link>https://varient.codingest.net/study-maps-forever-chemical-water-contamination-hotspots-worldwide</link>
+<guid>https://varient.codingest.net/study-maps-forever-chemical-water-contamination-hotspots-worldwide</guid>
+<description><![CDATA[ Study finds cancer-linked PFAS chemicals prevalent in drinking water sources across the globe, including many far over regulatory limits. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e86f360dc5.jpg" length="48963" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:10:58 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Study, maps, forever, chemical, water, contamination, hotspots, worldwide</media:keywords>
+</item>
+
+<item>
+<title>Space station captures image of moon&amp;apos;s shadow during solar eclipse</title>
+<link>https://varient.codingest.net/space-station-captures-image-of-moons-shadow-during-solar-eclipse</link>
+<guid>https://varient.codingest.net/space-station-captures-image-of-moons-shadow-during-solar-eclipse</guid>
+<description><![CDATA[ NASA flight engineers managed to photograph and videotape the moon&#039;s shadow on Earth about 260 miles below them. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e86f236dd7.jpg" length="39656" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:10:57 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Space, station, captures, image, moons, shadow, during, solar, eclipse</media:keywords>
+</item>
+
+<item>
+<title>Periodical cicadas will emerge this spring. Here&amp;apos;s what to know.</title>
+<link>https://varient.codingest.net/periodical-cicadas-will-emerge-this-spring-heres-what-to-know</link>
+<guid>https://varient.codingest.net/periodical-cicadas-will-emerge-this-spring-heres-what-to-know</guid>
+<description><![CDATA[ Periodical cicadas aren&#039;t present every spring, but when they do emerge, they come in loud, buzzing hordes. Here&#039;s what you need to know. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e86f1357ce.jpg" length="65260" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:10:56 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Periodical, cicadas, will, emerge, this, spring., Heres, what, know.</media:keywords>
+</item>
+
+<item>
+<title>Critics call out plastics industry over &amp;quot;fraud of plastic recycling&amp;quot;</title>
+<link>https://varient.codingest.net/critics-call-out-plastics-industry-over-fraud-of-plastic-recycling</link>
+<guid>https://varient.codingest.net/critics-call-out-plastics-industry-over-fraud-of-plastic-recycling</guid>
+<description><![CDATA[ Only 5 to 6% of plastic waste produced in the U.S. is actually recycled. A new report accuses the plastics industry of a decades-long campaign to &quot;mislead&quot; the public about the viability of recycling. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e86f0602e4.jpg" length="103339" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:10:55 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Critics, call, out, plastics, industry, over, fraud, plastic, recycling</media:keywords>
+</item>
+
+<item>
+<title>NASA seeks to reign in costs of Mars Sample Return mission</title>
+<link>https://varient.codingest.net/nasa-seeks-to-reign-in-costs-of-mars-sample-return-mission</link>
+<guid>https://varient.codingest.net/nasa-seeks-to-reign-in-costs-of-mars-sample-return-mission</guid>
+<description><![CDATA[ NASA said it agrees with an independent review board that concluded the project could cost up to $11 billion without major changes. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e86ef29409.jpg" length="91862" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:10:54 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>NASA, seeks, reign, costs, Mars, Sample, Return, mission</media:keywords>
+</item>
+
+<item>
+<title>NASA Selects First Lunar Instruments for Artemis Astronaut Deployment</title>
+<link>https://varient.codingest.net/nasa-selects-first-lunar-instruments-for-artemis-astronaut-deployment</link>
+<guid>https://varient.codingest.net/nasa-selects-first-lunar-instruments-for-artemis-astronaut-deployment</guid>
+<description><![CDATA[ NASA has chosen the first science instruments designed for astronauts to deploy on the surface of the Moon during Artemis III. Once installed near the lunar South Pole, the three instruments will collect valuable scientific data about the lunar environment, the lunar interior, and how to sustain a long-duration human presence on the Moon, which […] ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e86818140c.jpg" length="63509" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:09:04 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>NASA, Selects, First, Lunar, Instruments, for, Artemis, Astronaut, Deployment</media:keywords>
+</item>
+
+<item>
+<title>NASA Names Finalists of the Power to Explore Challenge</title>
+<link>https://varient.codingest.net/nasa-names-finalists-of-the-power-to-explore-challenge</link>
+<guid>https://varient.codingest.net/nasa-names-finalists-of-the-power-to-explore-challenge</guid>
+<description><![CDATA[ NASA has selected the nine finalists of the Power to Explore Challenge, a national competition for K-12 students featuring the enabling power of radioisotopes. NASA selected nine finalists out of the 45 semifinalist student essays in the Power to Explore Challenge, a national competition for K-12 students featuring the enabling power of radioisotopes. Contestants were […] ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e867f2151a.jpg" length="115504" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:09:02 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>NASA, Names, Finalists, the, Power, Explore, Challenge</media:keywords>
+</item>
+
+<item>
+<title>NASA’s SERT II: ‘A Genuine Space Success Story’</title>
+<link>https://varient.codingest.net/nasas-sert-ii-a-genuine-space-success-story</link>
+<guid>https://varient.codingest.net/nasas-sert-ii-a-genuine-space-success-story</guid>
+<description><![CDATA[ “A genuine space success story,” is how Experiments Manager William Kerslake described NASA’s second Space Electric Rocket Test (SERT II), the first long-duration operation of ion thrusters in space. SERT II provided researchers with data for years beyond its expected lifetime and was a rare example of an entire mission – including the launch, propulsion […] ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e867da9aec.jpg" length="118384" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:09:01 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>NASA’s, SERT, II:, ‘A, Genuine, Space, Success, Story’</media:keywords>
+</item>
+
+<item>
+<title>Tech Today: Folding NASA Experience into an Origami Toolkit </title>
+<link>https://varient.codingest.net/tech-today-folding-nasa-experience-into-an-origami-toolkit</link>
+<guid>https://varient.codingest.net/tech-today-folding-nasa-experience-into-an-origami-toolkit</guid>
+<description><![CDATA[ Math for designing lasers becomes artist’s key to creating complex crease patterns ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e867cf0dbf.jpg" length="47634" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 16:09:00 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Tech, Today:, Folding, NASA, Experience, into, Origami, Toolkit </media:keywords>
+</item>
+
+<item>
+<title>The Next Frontier for Brain Implants Is Artificial Vision</title>
+<link>https://varient.codingest.net/the-next-frontier-for-brain-implants-is-artificial-vision</link>
+<guid>https://varient.codingest.net/the-next-frontier-for-brain-implants-is-artificial-vision</guid>
+<description><![CDATA[ Elon Musk’s Neuralink and others are developing devices that could provide blind people with a crude sense of sight. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e8415a8924.jpg" length="126031" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 15:58:45 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>The, Next, Frontier, for, Brain, Implants, Artificial, Vision</media:keywords>
+</item>
+
+<item>
+<title>The Paradox That&amp;apos;s Supercharging Climate Change</title>
+<link>https://varient.codingest.net/the-paradox-thats-supercharging-climate-change</link>
+<guid>https://varient.codingest.net/the-paradox-thats-supercharging-climate-change</guid>
+<description><![CDATA[ Humanity needs to burn less fossil fuels. But that means fewer aerosols to help cool the planet—and a potential acceleration of global warming. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e84147cb29.jpg" length="174595" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 15:58:44 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>The, Paradox, Thats, Supercharging, Climate, Change</media:keywords>
+</item>
+
+<item>
+<title>It Takes Guts to Fix Wind Turbines for a Living</title>
+<link>https://varient.codingest.net/it-takes-guts-to-fix-wind-turbines-for-a-living</link>
+<guid>https://varient.codingest.net/it-takes-guts-to-fix-wind-turbines-for-a-living</guid>
+<description><![CDATA[ Want one of the fastest-growing jobs in the US? Get used to being high. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e84151ca1e.jpg" length="95868" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 15:58:44 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Takes, Guts, Fix, Wind, Turbines, for, Living</media:keywords>
+</item>
+
+<item>
+<title>They Experimented on Themselves in Secret. What They Discovered Helped Win a War</title>
+<link>https://varient.codingest.net/they-experimented-on-themselves-in-secret-what-they-discovered-helped-win-a-war</link>
+<guid>https://varient.codingest.net/they-experimented-on-themselves-in-secret-what-they-discovered-helped-win-a-war</guid>
+<description><![CDATA[ The untold, top-secret story of the British researchers who found the key to keeping humans alive underwater—and helped make D-Day a success. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e8413df37a.jpg" length="91385" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 15:58:43 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>They, Experimented, Themselves, Secret., What, They, Discovered, Helped, Win, War</media:keywords>
+</item>
+
+<item>
+<title>US Infrastructure Is Broken. Here’s an $830 Million Plan to Fix It</title>
+<link>https://varient.codingest.net/us-infrastructure-is-broken-heres-an-830-million-plan-to-fix-it</link>
+<guid>https://varient.codingest.net/us-infrastructure-is-broken-heres-an-830-million-plan-to-fix-it</guid>
+<description><![CDATA[ WIRED spoke with US transportation secretary Pete Buttigieg about recent grants to fix ancient roads, bridges, and other critical infrastructure before it’s too late. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e84134909d.jpg" length="187988" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 15:58:42 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Infrastructure, Broken., Here’s, 830, Million, Plan, Fix</media:keywords>
+</item>
+
+<item>
+<title>How to Stop Your Data From Being Used to Train AI</title>
+<link>https://varient.codingest.net/how-to-stop-your-data-from-being-used-to-train-ai</link>
+<guid>https://varient.codingest.net/how-to-stop-your-data-from-being-used-to-train-ai</guid>
+<description><![CDATA[ Some companies let you opt out of allowing your content to be used for generative AI. Here’s how to take back (at least a little) control from ChatGPT, Google’s Gemini, and more. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e83b6a3c79.jpg" length="56997" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 15:57:10 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>How, Stop, Your, Data, From, Being, Used, Train</media:keywords>
+</item>
+
+<item>
+<title>Humans Forget. AI Assistants Will Remember Everything</title>
+<link>https://varient.codingest.net/humans-forget-ai-assistants-will-remember-everything</link>
+<guid>https://varient.codingest.net/humans-forget-ai-assistants-will-remember-everything</guid>
+<description><![CDATA[ Digital assistants with access to everything you do on your phone can use that knowledge to remember the life details you’d otherwise forget. But with that great power comes great responsibility. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e83b750aa5.jpg" length="105282" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 15:57:10 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Humans, Forget., Assistants, Will, Remember, Everything</media:keywords>
+</item>
+
+<item>
+<title>No One Actually Knows How AI Will Affect Jobs</title>
+<link>https://varient.codingest.net/no-one-actually-knows-how-ai-will-affect-jobs</link>
+<guid>https://varient.codingest.net/no-one-actually-knows-how-ai-will-affect-jobs</guid>
+<description><![CDATA[ Some businesses are replacing people with AI; others are augmenting their workforce or hiring new workers. The long-term impact on labor is murky. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e83b579423.jpg" length="166313" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 15:57:09 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>One, Actually, Knows, How, Will, Affect, Jobs</media:keywords>
+</item>
+
+<item>
+<title>Eric Schmidt Warned Against China’s AI Industry. Emails Show He Also Sought Connections to It</title>
+<link>https://varient.codingest.net/eric-schmidt-warned-against-chinas-ai-industry-emails-show-he-also-sought-connections-to-it</link>
+<guid>https://varient.codingest.net/eric-schmidt-warned-against-chinas-ai-industry-emails-show-he-also-sought-connections-to-it</guid>
+<description><![CDATA[ Transparency advocates say that Eric Schmidt&#039;s pursuit of “personal” connections with AI companies in China represents a concerning conflict of interest. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e83b613454.jpg" length="108009" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 15:57:09 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Eric, Schmidt, Warned, Against, China’s, Industry., Emails, Show, Also, Sought, Connections</media:keywords>
+</item>
+
+<item>
+<title>Tech Leaders Once Cried for AI Regulation. Now the Message Is ‘Slow Down’</title>
+<link>https://varient.codingest.net/tech-leaders-once-cried-for-ai-regulation-now-the-message-is-slow-down</link>
+<guid>https://varient.codingest.net/tech-leaders-once-cried-for-ai-regulation-now-the-message-is-slow-down</guid>
+<description><![CDATA[ Any dreams of a sweeping AI bill out of Congress are basically a hallucination. ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661e83b4e53ca.jpg" length="80168" type="image/jpeg"/>
+<pubDate>Tue, 16 Apr 2024 15:57:08 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>Tech, Leaders, Once, Cried, for, Regulation., Now, the, Message, ‘Slow, Down’</media:keywords>
+</item>
+
+</channel>
+</rss>

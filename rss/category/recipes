@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:admin="http://webns.net/mvcb/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Varient &#45; News Magazine &#45; : Recipes</title>
+<link>https://varient.codingest.net/rss/category/recipes</link>
+<description>Varient &#45; News Magazine &#45; : Recipes</description>
+<dc:language>en</dc:language>
+<dc:rights>Copyright 2024 Varient &#45; All Rights Reserved.</dc:rights>
+
+<item>
+<title>Creamy spinach and mushroom quiche</title>
+<link>https://varient.codingest.net/creamy-spinach-and-mushroom-quiche</link>
+<guid>https://varient.codingest.net/creamy-spinach-and-mushroom-quiche</guid>
+<description><![CDATA[ With its wholesome ingredients and satisfying taste, this quiche is sure to become a favorite in your repertoire of recipes ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_6623c2d24ad59.webp" length="74018" type="image/jpeg"/>
+<pubDate>Sat, 20 Apr 2024 15:28:16 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>spinach, mushroom, recipe</media:keywords>
+</item>
+
+<item>
+<title>Grilled Honey Garlic Salmon</title>
+<link>https://varient.codingest.net/grilled-honey-garlic-salmon</link>
+<guid>https://varient.codingest.net/grilled-honey-garlic-salmon</guid>
+<description><![CDATA[ Grilled honey garlic salmon recipe for dinner ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66227c2608c42.webp" length="48710" type="image/jpeg"/>
+<pubDate>Thu, 18 Apr 2024 14:01:34 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>honey, garlic, salmon, recipe</media:keywords>
+</item>
+
+</channel>
+</rss>

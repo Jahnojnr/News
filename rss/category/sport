@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:admin="http://webns.net/mvcb/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Varient &#45; News Magazine &#45; : Sport</title>
+<link>https://varient.codingest.net/rss/category/sport</link>
+<description>Varient &#45; News Magazine &#45; : Sport</description>
+<dc:language>en</dc:language>
+<dc:rights>Copyright 2024 Varient &#45; All Rights Reserved.</dc:rights>
+
+<item>
+<title>The rowing experience is a test of physical endurance and mental fortitude</title>
+<link>https://varient.codingest.net/the-rowing-experience-is-a-test-of-physical-endurance-and-mental-fortitude</link>
+<guid>https://varient.codingest.net/the-rowing-experience-is-a-test-of-physical-endurance-and-mental-fortitude</guid>
+<description><![CDATA[ Beyond the physical and competitive aspects, rowing instills valuable life lessons. It cultivates discipline ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66258a55e82d2.webp" length="54126" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 23:51:46 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>rowing, experience</media:keywords>
+</item>
+
+<item>
+<title>Riding a bike is a sensory experience</title>
+<link>https://varient.codingest.net/riding-a-bike-is-a-sensory-experience</link>
+<guid>https://varient.codingest.net/riding-a-bike-is-a-sensory-experience</guid>
+<description><![CDATA[ The gentle whir of the tires on the pavement, the crispness of the air against our cheeks ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66258a0b7494f.webp" length="106234" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 23:50:33 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>bike, riding, experience</media:keywords>
+</item>
+
+<item>
+<title>The arrival of winter heralds a shift in the landscape</title>
+<link>https://varient.codingest.net/the-arrival-of-winter-heralds-a-shift-in-the-landscape</link>
+<guid>https://varient.codingest.net/the-arrival-of-winter-heralds-a-shift-in-the-landscape</guid>
+<description><![CDATA[ Breath hangs in the frigid air, creating ephemeral clouds that dissipate into the vastness of the sky ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_662589d3788d2.webp" length="120278" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 23:49:25 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>winter, sport, landscape</media:keywords>
+</item>
+
+<item>
+<title>In its purest form, running is a celebration of freedom</title>
+<link>https://varient.codingest.net/in-its-purest-form-running-is-a-celebration-of-freedom</link>
+<guid>https://varient.codingest.net/in-its-purest-form-running-is-a-celebration-of-freedom</guid>
+<description><![CDATA[ It liberates us from the constraints of time, obligations, and expectations ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66256db5d8f66.webp" length="31920" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 21:49:50 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>running, freedom</media:keywords>
+</item>
+
+<item>
+<title>Surfing in the sea is an exhilarating dance with nature</title>
+<link>https://varient.codingest.net/surfing-in-the-sea-is-an-exhilarating-dance-with-nature</link>
+<guid>https://varient.codingest.net/surfing-in-the-sea-is-an-exhilarating-dance-with-nature</guid>
+<description><![CDATA[ It is a communion with the vastness of the ocean, a thrilling union of skill, balance, and pure joy ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66211589d353c.webp" length="32882" type="image/jpeg"/>
+<pubDate>Thu, 18 Apr 2024 14:44:25 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>sea, exhilarating, surfing</media:keywords>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:admin="http://webns.net/mvcb/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Varient &#45; News Magazine &#45; : Design</title>
+<link>https://varient.codingest.net/rss/category/design</link>
+<description>Varient &#45; News Magazine &#45; : Design</description>
+<dc:language>en</dc:language>
+<dc:rights>Copyright 2024 Varient &#45; All Rights Reserved.</dc:rights>
+
+<item>
+<title>Studying is a journey of knowledge and self&#45;discovery</title>
+<link>https://varient.codingest.net/studying-is-a-journey-of-knowledge-and-self-discovery</link>
+<guid>https://varient.codingest.net/studying-is-a-journey-of-knowledge-and-self-discovery</guid>
+<description><![CDATA[ Studying is more than a mere accumulation of facts and figures. It is a practice that hones critical thinking, problem-solving, and analytical skills ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66211605b9518.webp" length="43954" type="image/jpeg"/>
+<pubDate>Thu, 18 Apr 2024 14:46:50 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>studying, journey, knowledge</media:keywords>
+</item>
+
+<item>
+<title>Decoration stuff holds the power to transform ordinary spaces</title>
+<link>https://varient.codingest.net/decoration-stuff-holds-the-power-to-transform-ordinary-spaces</link>
+<guid>https://varient.codingest.net/decoration-stuff-holds-the-power-to-transform-ordinary-spaces</guid>
+<description><![CDATA[ Decorative pieces come in a delightful variety, ranging from vibrant artwork and stylish throw pillows to intricate sculptures and delicate vases ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_662103dd44187.webp" length="62594" type="image/jpeg"/>
+<pubDate>Thu, 18 Apr 2024 13:29:34 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>transform, decoration</media:keywords>
+</item>
+
+</channel>
+</rss>

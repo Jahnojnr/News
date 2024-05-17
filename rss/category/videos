@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:admin="http://webns.net/mvcb/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Varient &#45; News Magazine &#45; : Videos</title>
+<link>https://varient.codingest.net/rss/category/videos</link>
+<description>Varient &#45; News Magazine &#45; : Videos</description>
+<dc:language>en</dc:language>
+<dc:rights>Copyright 2024 Varient &#45; All Rights Reserved.</dc:rights>
+
+<item>
+<title>Riding a bike is a delightful and invigorating experience</title>
+<link>https://varient.codingest.net/riding-a-bike-is-a-delightful-and-invigorating-experience</link>
+<guid>https://varient.codingest.net/riding-a-bike-is-a-delightful-and-invigorating-experience</guid>
+<description><![CDATA[ Beyond the individual experience, riding a bike also fosters a sense of community ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66258acea93aa.webp" length="77754" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 23:53:48 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>riding, bike, video</media:keywords>
+</item>
+
+<item>
+<title>From above video of water stream</title>
+<link>https://varient.codingest.net/from-above-video-of-water-stream</link>
+<guid>https://varient.codingest.net/from-above-video-of-water-stream</guid>
+<description><![CDATA[ The water stream flows relentlessly, carving its path through the landscape with unwavering determination and soothing melodies ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66256cc2b5553.webp" length="113698" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 21:45:43 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>water, stream, video</media:keywords>
+</item>
+
+<item>
+<title>Sailboat sailing during sunset</title>
+<link>https://varient.codingest.net/sailboat-sailing-during-sunset</link>
+<guid>https://varient.codingest.net/sailboat-sailing-during-sunset</guid>
+<description><![CDATA[ A sailboat dances upon the sunset-kissed waves, a picturesque moment of tranquility and elegance ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_66256c755d1e8.webp" length="63346" type="image/jpeg"/>
+<pubDate>Sun, 21 Apr 2024 21:44:18 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>sailboat, sunset, video</media:keywords>
+</item>
+
+<item>
+<title>The rhythmic lapping of the waves</title>
+<link>https://varient.codingest.net/the-rhythmic-lapping-of-the-waves</link>
+<guid>https://varient.codingest.net/the-rhythmic-lapping-of-the-waves</guid>
+<description><![CDATA[ The boat becomes a sanctuary, a place where time stands still. It provides a sanctuary for contemplation and introspection ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_661fb264765dc.webp" length="105856" type="image/jpeg"/>
+<pubDate>Fri, 19 Apr 2024 16:01:48 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>waves, sea, boat, video</media:keywords>
+</item>
+
+<item>
+<title>Night in the city is a sensory journey</title>
+<link>https://varient.codingest.net/night-in-the-city-is-a-sensory-journey</link>
+<guid>https://varient.codingest.net/night-in-the-city-is-a-sensory-journey</guid>
+<description><![CDATA[ The city streets become a stage for the nocturnal wanderers, each with a story to tell. Artists set up their easels, capturing the city&#039;s essence with each brushstroke ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_662278cb21825.webp" length="47778" type="image/jpeg"/>
+<pubDate>Fri, 19 Apr 2024 16:00:10 +0200</pubDate>
+<dc:creator>dailynews</dc:creator>
+<media:keywords>night, city</media:keywords>
+</item>
+
+<item>
+<title>View of river from boat</title>
+<link>https://varient.codingest.net/view-of-river-from-boat</link>
+<guid>https://varient.codingest.net/view-of-river-from-boat</guid>
+<description><![CDATA[ We like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing ]]></description>
+<enclosure url="https://varient.codingest.net/uploads/images/202404/image_870x580_662116cd40053.webp" length="72858" type="image/jpeg"/>
+<pubDate>Thu, 18 Apr 2024 14:48:53 +0200</pubDate>
+<dc:creator>admin</dc:creator>
+<media:keywords>boat, river, view</media:keywords>
+</item>
+
+</channel>
+</rss>
